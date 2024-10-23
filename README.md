@@ -3,7 +3,7 @@ This project aims to build a machine learning model using TensorFlow to classify
 
 Clone repository to your local computer using terminal or git bash
 ```
-git clone [github path](https://github.com/rymalfarizi/rockpaperscissor.git)
+git clone https://github.com/rymalfarizi/rockpaperscissor.git
 ```
 
 ## Train Model
