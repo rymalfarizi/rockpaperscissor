@@ -12,7 +12,6 @@ Here's how to train using Google Colab:
 2. After that, open it
 3. Change runtime to T4 GPU or TPU v2-8 to speed up training process
 ![image](https://github.com/user-attachments/assets/12496451-06ee-4be0-b691-5909a4e60cac)
-
 ![image](https://github.com/user-attachments/assets/3e4a5262-40c0-464f-b258-6dcd78fcf602)
 
 5. Run all blok code. Wait till the process done
@@ -20,5 +19,3 @@ Here's how to train using Google Colab:
 
 6. Then, download 'best_model.keras'
 ![image](https://github.com/user-attachments/assets/5fdf7fbf-9cda-4c68-9a11-3e390f79f5b5)
-
-7.  
